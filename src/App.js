@@ -10,12 +10,14 @@ import AboutPage from './components/AboutPage';
 import BlogPage from './components/BlogPage';
 import WorkPage from './components/WorkPage';
 import MySkillsPage from './components/MySkillsPage';
+import SoundBar from './subComponents/SoundBar';
 
 const App = () => {
   return (
     <div>
       <GlobalStyle />
       <ThemeProvider theme={lightTheme}>
+        <SoundBar />
         <Switch>
           <Route exact path="/" component={Main} />
           <Route exact path="/about" component={AboutPage} />
