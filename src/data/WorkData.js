@@ -1,43 +1,43 @@
 export const Work = [
   {
     id: 1,
-    name: 'Agency Landing Page',
+    name: 'Real-time chat messaging app',
     description:
-      'It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.',
-    tags: ['react', 'gsap', 'styledComponents'],
+      'Re-create and develop facebook messenger using ReactJS.',
+    tags: ['react', 'HTML', 'CSS'],
 
     demo: 'https://agency-website-eta.vercel.app/',
-    github: 'https://github.com/codebucks27/Agency-website'
+    github: 'https://github.com/chieutrangg/facebook-messenger-application'
   },
   {
     id: 2,
-    name: 'Job listing website',
+    name: 'Memory game ',
     description:
-      'A Job listing website build in ReactJS. With searching and filtering functionalities.',
-    tags: ['react', 'sass'],
+      'Creating a memory card game using ReactJS',
+    tags: ['react'],
 
     demo: 'http://react-job-listing-website.codebucks27.vercel.app/',
-    github: 'https://github.com/codebucks27/react-job-listing-website'
+    github: 'https://github.com/chieutrangg/memory-game-reactjs'
   },
   {
     id: 3,
-    name: 'Dev.to Clone',
+    name: 'Covid tracker application',
     description:
-      'A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.',
-    tags: ['react', 'api', 'sass'],
+      'Using React to create a tracker application for covid 19',
+    tags: ['react', 'api', 'CSS','JavaScript'],
 
     demo: 'http://devto-clone-codebucks27.vercel.app/',
-    github: 'https://github.com/codebucks27/devto-clone'
+    github: 'https://github.com/chieutrangg/Covid-tracker-application'
   },
   {
     id: 4,
-    name: 'Sidebar Menu',
+    name: 'Random advice generator',
     description:
       'A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.',
     tags: ['react', 'styledComponents', 'react-router'],
 
     demo: 'https://react-sidebar.vercel.app/',
-    github: 'https://github.com/codebucks27/react-sidebar'
+    github: 'https://github.com/chieutrangg/random-advice-generator'
   },
   {
     id: 5,
@@ -50,12 +50,12 @@ export const Work = [
   },
   {
     id: 6,
-    name: 'Responsive Navigation Menu',
+    name: 'Disney Plus Clone',
     description:
-      'A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.',
-    tags: ['react', 'react-router', 'css'],
+      'Disney plus clone by using React and styled-component',
+    tags: ['react', 'react-router', 'css', 'styled-component'],
 
     demo: 'http://react-responsive-navbar-codebucks27.vercel.app/',
-    github: 'https://github.com/codebucks27/React-responsive-navbar'
+    github: 'https://github.com/chieutrangg/disney-plus-clone-reactJs'
   }
 ];
