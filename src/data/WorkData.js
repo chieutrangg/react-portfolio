@@ -2,18 +2,16 @@ export const Work = [
   {
     id: 1,
     name: 'Real-time chat messaging app',
-    description:
-      'Re-create and develop facebook messenger using ReactJS.',
+    description: 'Re-create and develop facebook messenger using ReactJS.',
     tags: ['react', 'HTML', 'CSS'],
 
-    demo: 'https://agency-website-eta.vercel.app/',
+    demo: 'https://facebook-messenger-application.chieutrangg.repl.co',
     github: 'https://github.com/chieutrangg/facebook-messenger-application'
   },
   {
     id: 2,
     name: 'Memory game ',
-    description:
-      'Creating a memory card game using ReactJS',
+    description: 'Creating a memory card game using ReactJS',
     tags: ['react'],
 
     demo: 'http://react-job-listing-website.codebucks27.vercel.app/',
@@ -22,9 +20,8 @@ export const Work = [
   {
     id: 3,
     name: 'Covid tracker application',
-    description:
-      'Using React to create a tracker application for covid 19',
-    tags: ['react', 'api', 'CSS','JavaScript'],
+    description: 'Using React to create a tracker application for covid 19',
+    tags: ['react', 'api', 'CSS', 'JavaScript'],
 
     demo: 'http://devto-clone-codebucks27.vercel.app/',
     github: 'https://github.com/chieutrangg/Covid-tracker-application'
@@ -51,8 +48,7 @@ export const Work = [
   {
     id: 6,
     name: 'Disney Plus Clone',
-    description:
-      'Disney plus clone by using React and styled-component',
+    description: 'Disney plus clone by using React and styled-component',
     tags: ['react', 'react-router', 'css', 'styled-component'],
 
     demo: 'http://react-responsive-navbar-codebucks27.vercel.app/',
