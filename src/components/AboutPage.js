@@ -29,7 +29,7 @@ const AboutPage = () => {
           things and building projects. I'm an independent freelancer and blogger. I love to write
           blogs and read books.
           <br /> <br />I believe everything is an Art when you put your consciousness in it. You can
-          connect with me via social links!
+          connect with me via social links.
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
