@@ -6,7 +6,7 @@ import { PowerBtn } from '../components/AllSvg';
 const PowerButton = () => {
   return (
     <Power>
-      <NavLink to="/">
+      <NavLink to="/react-portfolio">
         <PowerBtn width={30} height={30} fill="currentColor" />
       </NavLink>
     </Power>
