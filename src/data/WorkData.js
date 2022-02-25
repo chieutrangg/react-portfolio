@@ -23,7 +23,7 @@ export const Work = [
     description: 'Using React to create a tracker application for covid 19',
     tags: ['react', 'api', 'CSS', 'JavaScript'],
 
-    demo: 'http://devto-clone-codebucks27.vercel.app/',
+    demo: 'https://vimeo.com/681622388',
     github: 'https://github.com/chieutrangg/Covid-tracker-application'
   },
   {
