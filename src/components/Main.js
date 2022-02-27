@@ -28,7 +28,7 @@ const Main = () => {
             height={click ? 120 : 200}
             fill="currentColor"
           />
-          <span>click here</span>
+          <span>Get to know me</span>
         </Center>
 
         <Contact target="_blank" to={{ pathname: 'mailto:chieutrangg@gmail.com' }}>
