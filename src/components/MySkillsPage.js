@@ -35,6 +35,7 @@ const MySkillsPage = () => {
             <strong>Tools</strong>
             <ul>
               <li>Figma</li>
+              <li>Adobe Photoshop</li>
             </ul>
           </Description>
         </Main>
